@@ -3,6 +3,7 @@ Searches for a given frequent word in arbitrary number of documents in the same 
 Uses priority queue structure on heaps.
 
 ex:
+
 Word to search: "samsung"
 
 doc1 -> (5) , doc4 -> (3), doc2 -> (1)
